@@ -1,10 +1,9 @@
 MyTracker uses a tracking code to collect data about website or app visitors. The tracking code includes a JavaScript file hosted on MyTracker's servers, as well as 
 a small piece of JavaScript code provided by MyTracker, which must be added to the HTML code of each page on the website or within the app. This code is responsible 
 for collecting data on user behavior and sending  that data to MyTracker's servers for processing and storage. The tracking code is designed to be lightweight and 
-unobtrusive, so it doesn't slow down the website or app's performance.
-
-When a user visits a website or opens an app that has the MyTracker tracking code implemented, the tracking code starts collecting data on various user events, such as 
-page views, clicks, form submissions, and more. This data is then sent to MyTracker's servers where it is processed and stored.
+unobtrusive, so it doesn't slow down the website or app's performance. When a user visits a website or opens an app that has the MyTracker tracking code implemented, 
+the tracking code starts collecting data on various user events, such as page views, clicks, form submissions, and more. This data is then sent to MyTracker's servers 
+where it is processed and stored.
 
 MyTracker uses various techniques to collect data on user behavior, including cookies, local storage, and device fingerprinting. 
 
