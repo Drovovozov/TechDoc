@@ -3,9 +3,6 @@ a small piece of JavaScript code provided by MyTracker, which must be added to t
 for collecting data on user behavior and sending  that data to MyTracker's servers for processing and storage. The tracking code is designed to be lightweight and 
 unobtrusive, so it doesn't slow down the website or app's performance.
 
-The tracking code is provided by MyTracker and is a small piece of JavaScript code that needs to be added to the website or app's HTML code. Once added, the tracking code
-starts collecting data on user behavior and sends it to MyTracker's servers for processing.
-
 When a user visits a website or opens an app that has the MyTracker tracking code implemented, the tracking code starts collecting data on various user events, such as 
 page views, clicks, form submissions, and more. This data is then sent to MyTracker's servers where it is processed and stored.
 
