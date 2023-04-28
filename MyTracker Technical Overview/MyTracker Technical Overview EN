@@ -12,6 +12,14 @@ Cookies are small text files that are stored on the user's device when they visi
 information, and website activity. This allows MyTracker to track user behavior across different sessions and devices, as long as the user remains logged in and doesn't 
 clear their cookies.
 
+Local storage is similar to cookies in that it allows web applications to store data on a user's device. Local storage is not stored in a file like cookies are. 
+Instead, local storage is implemented as a key-value store in the user's browser. This means that data is stored as key-value pairs in the browser's memory, with each 
+key being a unique identifier for a specific piece of data, and the value being the actual data itself. The data in local storage is stored in a structured way, meaning 
+that it is organized into different objects or arrays. These objects can be manipulated by the web application or the tracking code to store and retrieve data as needed. 
+Local storage has a larger storage capacity compared to cookies, and the data is not sent to the server with every request. MyTracker uses local storage to store data 
+about the user, such as their preferences and activities on the website or app. The tracking code on the website or app creates a local storage object and stores 
+the data in it. The data can be accessed by the website or app and the tracking code on subsequent visits to personalize the user experience or track their behavior.
+
 In addition to tracking user behavior, MyTracker also allows businesses and marketers to track the performance of their marketing campaigns. This is done through the use 
 of UTM parameters, which are tags that can be added to URLs to track where website traffic is coming from. By using UTM parameters in their marketing campaigns, 
 businesses and marketers can track which campaigns are driving the most traffic and conversions.
