@@ -3,4 +3,4 @@
 
 This repository serves as a portfolio of technical documentation samples that I've created for MyTracker, an analytics and attribution system for mobile apps and websites. The samples in this repository demonstrate my skills and expertise in technical writing. The texts are presented in Russian and English as a demonstration of my English language proficiency level.
 
-Краткое описание MyTracker: [![Описание MyTracker](https://img.shields.io/badge/MyTracker%20Overview%20(Russian)-View%20File-brightgreen)](TechDoc/MyTracker%20Overview/MyTracker%20Overview%20RU) [![MyTracker Overview](https://img.shields.io/badge/MyTracker%20Overview%20(English)-View%20File-brightgreen)](TechDoc/MyTracker%20Overview/MyTracker%20Overview%20EN)
+Краткое описание MyTracker: [![MyTracker Overview (Russian)](https://img.shields.io/badge/MyTracker%20Overview%20(Russian)-View%20File-brightgreen)](TechDoc/MyTracker%20Overview/MyTracker%20Overview%20RU.md)
