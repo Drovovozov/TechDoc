@@ -22,6 +22,14 @@ the data in it. The data can be accessed by the website or app and the tracking 
 Using local storage allows MyTracker to store larger amounts of data on the user's device, which can be useful for tracking user behavior or preferences that would exceed
 the storage capacity of cookies.
 
+Device fingerprinting is another technique used by MyTracker to identify and track users across different devices or browsers. It involves collecting information about 
+a user's device, such as browser version, screen resolution, installed plugins, and other device-specific details that can be used to create a unique identifier, 
+or fingerprint, for that device. MyTracker's tracking code collects this information and sends it to MyTracker's servers, where it is used to create a unique 
+identifier for the user's device. This identifier is then associated with the user's account or profile, allowing MyTracker to track their behavior across multiple 
+devices or browsers. Device fingerprinting can be useful for tracking users who clear their cookies or use multiple devices, as it allows MyTracker to identify them 
+even if they are not logged in or using the same browser. Device fingerprinting enables MyTracker to track users who clear their cookies or use multiple devices, 
+as it allows MyTracker to identify users even if they are not logged in or using the same browser. 
+
 In addition to tracking user behavior, MyTracker also allows businesses and marketers to track the performance of their marketing campaigns. This is done through the use 
 of UTM parameters, which are tags that can be added to URLs to track where website traffic is coming from. By using UTM parameters in their marketing campaigns, 
 businesses and marketers can track which campaigns are driving the most traffic and conversions.
