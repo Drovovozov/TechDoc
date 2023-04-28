@@ -8,9 +8,9 @@ page views, clicks, form submissions, and more. This data is then sent to MyTrac
 
 MyTracker uses various techniques to collect data on user behavior, including cookies, local storage, and device fingerprinting. 
 
-Cookies are small text files that are stored on the user's device when they visit a website. MyTracker uses cookies to store data such as user preferences, login 
-information, and website activity. These cookies can be accessed by the website or app that created them, as well as by MyTracker's tracking code. This allows MyTracker 
-to track user behavior across different sessions and devices, as long as the user remains logged in and doesn't clear their cookies.
+Cookies are small text files that are stored on the user's device when they visit a website. MyTracker uses cookies to retrieve data such as user preferences, login 
+information, and website activity. This allows MyTracker to track user behavior across different sessions and devices, as long as the user remains logged in and doesn't 
+clear their cookies.
 
 In addition to tracking user behavior, MyTracker also allows businesses and marketers to track the performance of their marketing campaigns. This is done through the use 
 of UTM parameters, which are tags that can be added to URLs to track where website traffic is coming from. By using UTM parameters in their marketing campaigns, 
