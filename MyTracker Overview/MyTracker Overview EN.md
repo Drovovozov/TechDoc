@@ -1,4 +1,4 @@
-# MyTracker - A Comprehensive Web and Mobile Analytics Platform
+# MyTracker Overview
 
 MyTracker is a comprehensive web and mobile analytics platform that enables you to track user behavior, analyze conversion rates, and gain valuable insights into online performance. With its advanced tracking and analytics capabilities, MyTracker can help businesses of all sizes to improve their online presence and increase profitability.
 
