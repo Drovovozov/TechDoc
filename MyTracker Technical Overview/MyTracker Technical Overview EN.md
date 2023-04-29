@@ -50,6 +50,8 @@ In addition to tracking user behavior, MyTracker also allows to track the perfor
 UTM parameters are tags added to the end of a URL that allow website owners and marketers to track the effectiveness of their online campaigns. MyTracker can use 
 UTM parameters to track the effectiveness of different marketing campaigns.
 
+## Other Features
+
 MyTracker also offers a range of other features, such as audience segmentation, conversion tracking, and ad campaign optimization. Audience segmentation allows 
 businesses and marketers to group website or app visitors based on various criteria, such as demographics, behavior, and interests. Conversion tracking allows 
 businesses and marketers to track specific user actions, such as form submissions, purchases, and sign-ups. Ad campaign optimization allows businesses and marketers 
