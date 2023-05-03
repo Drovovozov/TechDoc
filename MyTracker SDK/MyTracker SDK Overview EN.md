@@ -1,8 +1,8 @@
 # MyTracker SDK: A Technical Overview
 
-MyTracker SDK is a software development kit that provides tools for mobile app developers to track user behavior, measure the effectiveness of advertising campaigns, and engage with users through personalized messaging. The SDK is designed to be easy to integrate into mobile apps and provides a wide range of features for app analytics and marketing automation.
+MyTracker SDK is a software development kit that provides tools for mobile app developers to track user behavior, measure the effectiveness of advertising campaigns, and engage with users through personalized messaging. MyTracker SDK is designed to be easy to integrate into mobile apps and provides a wide range of features for app analytics and marketing automation.
 
-The SDK supports both Android and iOS platforms and can be integrated into apps using a variety of methods, including Gradle, Cocoapods, and manual integration. Once integrated, the SDK can be used to track various events within the app, such as screen views, button clicks, and in-app purchases.
+The SDK supports both Android and iOS platforms and can be integrated into apps using a variety of methods, including Gradle, CocoaPods, and manual integration. Once integrated, the SDK can be used to track various events within the app, such as screen views, button clicks, and in-app purchases.
 
 ## Key Features
 
@@ -22,4 +22,6 @@ In addition to app analytics, the SDK also provides features for marketing autom
 
 ## Security and Privacy
 
-To ensure the privacy and security of user data, the SDK uses a variety of techniques to anonymize and protect user information. For example, IP addresses are hashed before being stored, and sensitive data such as credit card numbers are never stored on MyTracker's servers.
+To ensure the privacy and security of user data, the SDK uses a variety of techniques to anonymize and protect user information. For example, MyTracker SDK uses hashing of IP addresses to protect the privacy of users by not storing the actual IP addresses on its servers. Instead, the IP address is first converted into a hash value using a mathematical algorithm. This hash value is then stored on the server, and whenever the SDK needs to use the IP address for analysis or tracking purposes, it first converts the IP address into its hash value using the same algorithm, and then uses the hashed value instead. This way, the original IP address cannot be traced back from the hashed value, and the privacy of the user is preserved. 
+
+Also, any sensitive data such as credit card numbers is not stored on MyTracker's servers. When a user enters their credit card information into an app that uses MyTracker SDK, the SDK does not store this information on MyTracker's servers. Instead, the information is typically encrypted and stored on the user's device or transmitted directly to a payment processor. MyTracker only receives information related to the payment transaction that is necessary for tracking and analyzing user behavior. This helps to ensure the privacy and security of user data.
