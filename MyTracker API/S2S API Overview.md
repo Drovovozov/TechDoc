@@ -1,6 +1,6 @@
 # MyTracker S2S API Overview
 
-MyTracker, a Russian analytics service, provides a server-to-server (S2S) API that allows users to send data to the MyTracker server. This API is designed to facilitate the upload of various events, such as user authorizations, payments, deliveries, and more. The uploaded events are then incorporated into the project data and displayed in the MyTracker reports.
+MyTracker provides a server-to-server (S2S) API that allows users to send data to the MyTracker server. This API is designed to facilitate the upload of various events, such as user authorizations, payments, deliveries, and more. The uploaded events are then incorporated into the project data and displayed in the MyTracker reports.
 
 ## Accessing the S2S API
 To access the S2S API, users need to follow these steps:
